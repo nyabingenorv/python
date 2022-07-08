@@ -28,3 +28,4 @@ num2 = int(input("enter second number: "))
 op = input("enter operator either (+ - / * )")
 
 print(f"the answer is {calculator(num1,num2,op)}")
+print('the>END 🔚')
